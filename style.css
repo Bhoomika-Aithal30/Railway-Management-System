@@ -1,0 +1,26 @@
+.body_background {
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.8)), url("background.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-size: 15px;
+}
+
+.isa_warning {
+	color: red;
+	background-color: #FFD2D2;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	font-size: 20px;
+	border-radius: 15px;
+}
+
+.isa_success {
+	color: green;
+	background-color: #DFF2BF;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	font-size: 20px;
+	border-radius: 15px;
+}
